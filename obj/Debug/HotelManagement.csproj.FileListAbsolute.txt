@@ -1,0 +1,5 @@
+C:\Users\DELL\documents\visual studio 2010\Projects\HotelManagement\HotelManagement\bin\HotelManagement.dll
+C:\Users\DELL\documents\visual studio 2010\Projects\HotelManagement\HotelManagement\bin\HotelManagement.pdb
+C:\Users\DELL\documents\visual studio 2010\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.dll
+C:\Users\DELL\documents\visual studio 2010\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\DELL\documents\visual studio 2010\Projects\HotelManagement\HotelManagement\obj\Debug\HotelManagement.csprojResolveAssemblyReference.cache
